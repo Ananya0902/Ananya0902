@@ -52,20 +52,6 @@ A passionate **Computer Science and Engineering** student from **NIT Arunachal P
 - 🥇 **1st Position** - Codeathon, Newton School Coding Club, 2023
 - 🥈 **2nd Position** - Codeathon, Newton School Coding Club, 2022
 
-## 🛠 Projects
-
-### [Google Drive Clone: Decentralized](https://github.com/Ananya0902/GoogleDriveClone)
-
-A decentralized alternative to Google Drive using Ethereum smart contracts and IPFS for tamper-proof storage.
-- **Tech Stack**: Solidity, Ether.js, Hardhat, IPFS
-- **Achievements**: Improved user access control and image ownership by 70%.
-
-### [Dukan: An E-commerce application](https://github.com/Ananya0902/Dukaan)
-
-An e-commerce platform built with the MERN stack, optimized for performance and user engagement.
-- **Tech Stack**: MongoDB, Express.js, React.js, Node.js
-- **Achievements**: Enhanced backend performance by 40% and UI/UX by 30%.
-
 ## 📈 GitHub Stats
 
 <div align="center">
