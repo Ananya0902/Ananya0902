@@ -20,7 +20,6 @@ A passionate **Computer Science and Engineering** student from **NIT Arunachal P
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
@@ -53,6 +52,15 @@ A passionate **Computer Science and Engineering** student from **NIT Arunachal P
 - 🥈 **2nd Position** - Codeathon, Newton School Coding Club, 2022
 
 ## 📈 GitHub Stats
+
+<style>
+    .github-stats {
+        transition: transform 0.5s;
+    }
+    .github-stats:hover {
+        transform: scale(1.05);
+    }
+</style>
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Ananya0902&show_icons=true&theme=radical" alt="Ananya's GitHub Stats">
