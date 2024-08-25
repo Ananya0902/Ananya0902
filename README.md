@@ -53,19 +53,11 @@ A passionate **Computer Science and Engineering** student from **NIT Arunachal P
 
 ## 📈 GitHub Stats
 
-<style>
-    .github-stats {
-        transition: transform 0.5s;
-    }
-    .github-stats:hover {
-        transform: scale(1.05);
-    }
-</style>
-
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ananya0902&show_icons=true&theme=radical" alt="Ananya's GitHub Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya0902&layout=compact&theme=radical" alt="Top Languages">
+    <img class="github-stats" src="https://github-readme-stats.vercel.app/api?username=Ananya0902&show_icons=true&theme=radical" alt="Ananya's GitHub Stats">
+    <img class="github-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya0902&layout=compact&theme=radical" alt="Top Languages">
 </div>
+
 
 ## ✨ Let's Connect!
 
